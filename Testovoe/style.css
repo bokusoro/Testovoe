@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  background-color: #F5E7DA;
+}
+
+.main__card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 253px;
+  padding-bottom: 253px;
+}
+
+.main__card__bg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 323px;
+  height: auto;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.primary {
+  margin-top: 27px;
+  margin-right: 206px;
+  margin-left: 35px;
+}
+
+.main__title {
+  margin: 0;
+  font-family: MulishB, sans-serif;
+  font-size: 18px;
+  margin-top: 11px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.main__subtitle {
+  font-family: MulishEl, sans-serif;
+  margin: 0;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.main__user {
+  display: flex;
+  align-self: flex-start;
+  margin-top: 38px;
+  margin-left: 25px;
+  margin-bottom: 29px;
+}
+
+#Subtitle {
+  font-weight: bolder;
+  color: #545D7A;
+  margin: 0;
+}
+
+.user__title {
+  margin: 0;
+  font-family: MulishB, sans-serif;
+  font-size: 18px;
+}
+
+.user__subtitle {
+  font-family: MulishEl, sans-serif;
+  margin: 0;
+  font-size: 16px;
+  font-weight: bolder;
+  color: #545D7A;
+}
+
+.main__user__text {
+  margin-left: 7px;
+  padding-right: 16px;
+}
+
+.main__user__text h3 {
+  margin-bottom: 5px;
+}

@@ -1,0 +1,14 @@
+@font-face {
+  font-family: MulishB;
+  src: url(../Fonts/Mulish-Bold.ttf);
+}
+
+@font-face {
+  font-family: MulishR;
+  src: url(../Fonts/Mulish-Regular.ttf);
+}
+
+@font-face {
+  font-family: MulishEl;
+  src: url(../Fonts/Mulish-ExtraLight.ttf);
+}
